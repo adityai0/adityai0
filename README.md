@@ -4,13 +4,13 @@
 
 I'm a first-year computer science student pursuing a BTech degree with a passion for web development. I specialize in creating dynamic web applications using modern technologies like Next.js, React.js, MongoDB, JavaScript, and Tailwind CSS.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4adityar&label=Profile%20views&color=0e75b6&style=flat" alt="4adityar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityax0r&label=Profile%20views&color=0e75b6&style=flat" alt="adityax0r" /> </p>
 
 ## 🚀 **My Github Stats:**
   
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=4aditya&count_private=true)](https://github.com/4aditya)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityax0&count_private=true)](https://github.com/adityax0)
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=4aditya)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityax0)](https://git.io/streak-stats)
  
 In addition to building cool projects, I'm also an enthusiastic open-source contributor. I believe that open-source projects are an excellent way to learn and grow as a developer, and I'm always looking for ways to help out and contribute.
 
