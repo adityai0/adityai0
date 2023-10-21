@@ -6,6 +6,8 @@ I'm a first-year computer science student pursuing a BTech degree with a passion
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityax0r&label=Profile%20views&color=0e75b6&style=flat" alt="adityax0r" /> </p>
 
+[![An image of @adityax0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityax0)](https://holopin.io/@adityax0)
+
 ## 🚀 **My Github Stats:**
   
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityax0&count_private=true)](https://github.com/adityax0)
