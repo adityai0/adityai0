@@ -2,7 +2,7 @@
 # 👋 Hello, World! I'm Aditya Kumar!
 
 
-👋 Hello! I'm a CS enthusiast. I love creating dynamic and interactive web applications using technologies like Next.js, React.js, MongoDB, JavaScript, and Tailwind CSS. I'm always learning and currently exploring cloud architectures and microservices. Let's connect and innovate together! 😊
+👋 Hello! I'm a CS enthusiast. I love creating dynamic and interactive web applications using technologies like Next.js, React.js, MongoDB, JavaScript, and Tailwind CSS. I'm always learning and currently exploring backend development. Let's connect and innovate together! 😊
 
 ### 🚀 My Tech Stack
 
@@ -16,7 +16,7 @@ I specialize in creating dynamic and interactive web applications using:
 
 ### 🌱 Learning & Growth
 
-I'm on a continuous learning path, currently diving deeper into **cloud architectures** and **microservices**.
+I'm on a continuous learning path, currently diving deeper into **Backend Development** .
 
 
 
