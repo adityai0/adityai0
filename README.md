@@ -42,7 +42,7 @@ Visit my personal website: [www.adityakr.com](https://www.adityakr.com)
 # 📊 GitHub Stats:
 ![](https://git-stats-olive.vercel.app//api?username=adityai0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityai0&theme=dark&hide_border=true)
-[![Top Langs](https://git-stats-olive.vercel.app//api/top-langs/?username=adityai0&layout=compact)](https://github.com/adityai0)
+[![Top Langs](https://git-stats-olive.vercel.app//api/top-langs/?username=adityai0&layout=compact&theme=dark&show_icons=true&hide_border=true)](https://github.com/adityai0)
 
 
 
