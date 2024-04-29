@@ -22,7 +22,7 @@ I'm on a continuous learning path, currently diving deeper into **Backend Develo
 
 ### 📫 Reach Out to Me
 
-Feel free to connect with me via [Email](mailto:contact@adityakr.com).
+Feel free to connect with me via Email : [contact@aditakr.com](mailto:contact@adityakr.com)
 
 ### 🔗 Know More About Me
 
