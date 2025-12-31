@@ -1,33 +1,6 @@
-
 # 👋 Hello, World! I'm Aditya Kumar!
 
-
 👋 I'm an Indian software developer, passionate about creating dynamic web applications using technologies like Next.js, React.js, MongoDB, JavaScript, and Tailwind CSS, and constantly learning and exploring backend development. 😊
-
-### 🚀 My Tech Stack
-
-I specialize in creating dynamic and interactive web applications using:
-
-- **Next.js** for building server-side rendered and static web applications.
-- **React.js** for crafting user interfaces.
-- **MongoDB** for database management.
-- **JavaScript** as the programming language.
-- **Tailwind CSS** for styling.
-
-### 🌱 Learning & Growth
-
-I'm on a continuous learning path, currently diving deeper into **Backend Development** .
-
-
-
-### 📫 Reach Out to Me
-
-Feel free to connect with me via Email : [contact@aditakr.com](mailto:contact@adityakr.com)
-
-### 🔗 Know More About Me
-
-Visit my personal website: [www.adityakr.com](https://www.adityakr.com)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityai0&label=Profile%20views&color=0e75b6&style=flat" alt="adityai0" /> </p>
 
